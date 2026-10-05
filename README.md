@@ -1,349 +1,425 @@
+<!-- ========================= -->
+
+<!--        HERO SECTION       -->
+
+<!-- ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SANJAI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20AI%20EXPLORER%20%7C%20BUILDER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:312E81,100:7C3AED&text=SANJAI&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20AI%20EXPLORER%20%E2%80%A2%20BUILDER&descSize=20&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Real+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing SVG" />
+<br>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=850&lines=Initializing+Sanjai.exe...;Frontend+Developer+%7C+AI+Explorer;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Products;Code+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve;Welcome+to+my+digital+world+%F0%9F%9A%80" alt="Typing Animation"/>
 
-<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20Information%20Technology-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Web%20Development-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Tamil%20Nadu%2C%20India-4C1D95?style=for-the-badge"/>
+<br><br>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROLE-FRONTEND%20DEVELOPER-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-TAMIL%20NADU-312E81?style=for-the-badge"/>
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge"/>
+</a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ========================= -->
+
+<!--       SYSTEM PROFILE      -->
+
+<!-- ========================= -->
+
+<div align="center">
+
+## `> SYSTEM PROFILE`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Developer+Mode%3A+ACTIVE;Creative+Mode%3A+ACTIVE;Learning+Mode%3A+ALWAYS+ON;Building+Mode%3A+24%2F7" />
+
+</div>
 
 ```yaml
 name: Sanjai
+alias: Op
 education: B.Tech Information Technology
-role: Frontend Developer & Aspiring Full Stack Developer
+role: Frontend Developer / Aspiring Full Stack Developer
 
-focus:
-  - Modern Web Development
-  - Interactive UI/UX
-  - AI-Powered Applications
-  - Creative Digital Experiences
-
-skills:
-  - HTML5
-  - CSS3
-  - JavaScript ES6
-  - Bootstrap 5
-  - React.js
-  - GSAP
-  - Python
-  - MySQL
-  - REST APIs
-  - Git & GitHub
-  - n8n
-  - AI Development Tools
-
-currently_learning:
-  - Advanced JavaScript
-  - React.js
-  - Python Backend Development
-  - REST API Development
-  - AI Integration
-  - Automation with n8n
+mission:
+  - Build modern web experiences
+  - Explore Artificial Intelligence
+  - Solve real-world problems
+  - Turn ideas into products
 
 mindset:
-  Learn → Build → Share → Improve
+  Learn → Build → Break → Fix → Improve
+
+current_status:
+  learning: true
+  building: true
+  experimenting: true
+  giving_up: false
 ```
 
-I'm a **B.Tech Information Technology student and aspiring Frontend / Full Stack Developer** who enjoys turning ideas into real-world digital products.
+---
 
-I love building **modern websites, interactive interfaces, AI-powered applications and creative web experiences** with a strong focus on design and user experience.
+# ⚡ About Me
 
-Currently, I'm focused on improving my development skills, building real projects and turning my technical knowledge into professional products.
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I'm **Sanjai**, a B.Tech Information Technology student and aspiring **Frontend / Full Stack Developer**.
+
+I enjoy creating **modern websites, interactive interfaces, AI-powered applications and digital products**.
+
+My main interest is combining **clean UI + animations + technology + AI** to create experiences that feel different from ordinary websites.
+
+Currently I'm focused on becoming a stronger developer by building real projects instead of only learning theory.
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Tech Stack
+# 🧠 Developer DNA
 
-### 💻 Programming & Web
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
-</p>
+| 🧩 Area       | ⚡ Current Focus                       |
+| ------------- | ------------------------------------- |
+| 🎨 Frontend   | HTML • CSS • JavaScript • React       |
+| ✨ Animation   | GSAP • ScrollTrigger • Interactive UI |
+| 🐍 Backend    | Python • Node.js • REST APIs          |
+| 🗄️ Database  | MySQL • MongoDB • SQLite              |
+| 🤖 AI         | AI APIs • AI Assistants • AI Tools    |
+| 🔗 Automation | n8n • Workflow Automation             |
+| 🛠️ Tools     | Git • GitHub • VS Code                |
 
-### 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-</p>
-
-**Also working with:** GSAP • ScrollTrigger • Responsive Design • Interactive UI
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb"/>
-</p>
-
-**Currently exploring:** Python Backend • REST APIs • Authentication • Database Integration
-
-### 🛠️ Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-**Also using:** n8n • AI Coding Tools • GitHub • VS Code
+</div>
 
 ---
 
-## 🧠 My Learning Journey
+# 🛠️ Tech Arsenal
+
+### `Frontend`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=5"/>
+
+</p>
+
+### `Backend & Database`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,mongodb,sqlite&perline=5"/>
+
+</p>
+
+### `Tools`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5"/>
+
+</p>
+
+### `Creative Technologies`
+
+<div align="center">
+
+`GSAP` `ScrollTrigger` `REST APIs` `n8n` `AI Tools` `Automation`
+
+</div>
+
+---
+
+# 🚀 My Developer Evolution
+
+<div align="center">
 
 ```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-Bootstrap & Responsive Design
-     ↓
-React.js
-     ↓
-GSAP & Interactive Experiences
-     ↓
-Python Backend
-     ↓
-REST APIs & Databases
-     ↓
-AI Integration & Automation
-     ↓
-Real-World Projects
-     ↓
-Professional Developer
+             ┌─────────────────────┐
+             │      CURIOUS        │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │      LEARNER        │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │       CODER         │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │   PROJECT BUILDER   │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │   FULL STACK DEV    │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │    AI DEVELOPER     │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │   PRODUCT BUILDER   │
+             └─────────────────────┘
 ```
+
+</div>
 
 ---
 
-## 🔥 Featured Projects
+# 💎 Featured Projects
 
-### 🌐 Project 01 — Event Scheduling Platform
+## 🌐 Event Scheduling Platform
 
-A web platform designed to help **event organizers create, manage and schedule events** while allowing attendees to discover and participate in events.
+> A platform designed to connect **event organizers and attendees** through a modern event management experience.
 
-**Features:**
+**Highlights**
 
-* Event creation & management
-* Event scheduling
-* Organizer / attendee workflow
-* Responsive interface
-* Backend & database integration
+* 📅 Event scheduling
+* 👥 Organizer / attendee workflow
+* 🎨 Responsive UI
+* 🔐 Backend integration
+* 🗄️ Database management
 
-**Tech Stack:**
 `HTML` `CSS` `JavaScript` `Bootstrap` `Python` `MySQL`
 
 ---
 
-### 🛒 Project 02 — Viper Sensi Platform
+## 🎮 Viper Sensi Platform
 
-A digital platform created for managing and selling **Free Fire sensitivity configurations and gaming-related digital products**.
+> A digital product platform created around **gaming sensitivity configurations and digital products**.
 
-**Features:**
+**Highlights**
 
-* Product listing
-* Digital product workflow
-* User authentication
-* Payment verification workflow
-* PDF generation
-* Token-based product delivery
+* 🛒 Product management
+* 🔐 Authentication
+* 💳 Payment verification workflow
+* 📄 Automated PDF generation
+* 🎟️ Token-based delivery
+* ⚙️ Backend API
 
-**Tech Stack:**
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `JWT` `SQLite` `Python`
-
----
-
-### ✈️ Project 03 — ExploreKey Holidays
-
-A modern travel website concept designed for a travel business covering destinations across **Tamil Nadu, Kerala, Karnataka, Goa and South India**.
-
-**Focus:**
-
-* Premium travel UI
-* Interactive animations
-* Destination presentation
-* Responsive design
-* Conversion-focused layouts
-
-**Tech Stack:**
-`HTML` `CSS` `JavaScript` `Bootstrap` `GSAP` `ScrollTrigger`
+`Node.js` `Express.js` `JWT` `SQLite` `Python` `ReportLab`
 
 ---
 
-### 🤖 Project 04 — IGRIS Personal AI Assistant
+## ✈️ ExploreKey Holidays
 
-An experimental personal AI assistant project inspired by futuristic AI assistants.
+> A premium travel website concept focused on creating an **immersive travel experience**.
 
-**Features explored:**
+**Highlights**
 
-* Voice interaction
-* AI conversation
-* Memory system
-* PC automation
-* Reminders
-* Tool integration
-* n8n automation
-* Local AI experimentation
+* 🌍 Destination showcase
+* ✨ GSAP animations
+* 🌀 Scroll interactions
+* 📱 Responsive design
+* 🎯 Conversion-focused UI
 
-**Tech Stack:**
-`Python` `AI APIs` `Ollama` `n8n` `Automation`
+`HTML` `CSS` `JavaScript` `Bootstrap` `GSAP`
 
 ---
 
-## 🎨 What I Love Building
+## 🤖 IGRIS — Personal AI Assistant
 
-```text
-✨ Premium Websites
-🎨 Creative UI/UX
-⚡ Interactive Web Experiences
-🤖 AI-Powered Applications
-🔗 Automation Systems
-🛒 E-Commerce Platforms
-📱 Responsive Web Apps
-🚀 Digital Products
-```
+> An experimental AI assistant project inspired by futuristic personal assistants.
 
----
+**Exploring**
 
-## 🔭 Currently Exploring
+* 🎙️ Voice interaction
+* 🧠 AI conversation
+* 💾 Memory systems
+* 🖥️ PC automation
+* 🔗 n8n workflows
+* 🤖 Local AI models
+* 🛠️ Tool integrations
 
-* Advanced React.js
-* Python Backend Development
-* REST API Architecture
-* AI Integration
-* AI Agents
-* n8n Automation
-* GSAP & Advanced Animations
-* 3D / Interactive Web Experiences
-* Full Stack Development
+`Python` `AI` `Ollama` `n8n` `Automation`
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - React.js
-  - Python Backend
-  - REST APIs
-  - AI Integration
-  - Advanced JavaScript
-
-building:
-  - Event Scheduling Platform
-  - AI Assistant Projects
-  - Premium Web Experiences
-  - Client Websites
-
-exploring:
-  - AI Agents
-  - Automation
-  - 3D Web Experiences
-  - AI-Powered Web Apps
-
-goal:
-  - Become a strong Full Stack Developer
-  - Build products instead of only projects
-  - Create technology that solves real problems
-```
-
----
-
-## 💡 My Development Philosophy
-
-> **Learn → Build → Break → Fix → Improve**
-
-I believe the best way to learn development is not just by watching tutorials, but by **building real things, solving real problems and continuously improving them.**
-
-Every project is an opportunity to learn something new.
-
----
-
-## 📈 My Growth Path
-
-```text
-Student
-   ↓
-Developer
-   ↓
-Project Builder
-   ↓
-Full Stack Developer
-   ↓
-AI Developer
-   ↓
-Product Builder
-   ↓
-Job Creator 🚀
-```
-
----
-
-## 🧩 Beyond Coding
-
-I'm also interested in:
-
-* 💡 Entrepreneurship
-* 🤖 Artificial Intelligence
-* 🎮 Gaming
-* 🎬 Video & Reel Editing
-* 🎨 Website Design
-* 📈 Business & Technology
-* 🚀 Building Digital Products
-
----
-
-## 🐙 GitHub
+# 🔥 Currently Building
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Improving-6D28D9?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&width=750&lines=⚡+Premium+Web+Experiences;🤖+AI-Powered+Applications;🔗+Automation+Workflows;🎨+Interactive+UI%2FUX;🚀+Real-World+Digital+Products" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 🧪 Currently Exploring
+
+```text
+┌──────────────────────────────────────────────┐
+│              EXPERIMENT LAB                  │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ⚛ React.js                                 │
+│  🐍 Python Backend                           │
+│  🔌 REST APIs                                │
+│  🤖 AI Integration                           │
+│  🧠 AI Agents                                │
+│  🔗 n8n Automation                           │
+│  ✨ GSAP / ScrollTrigger                     │
+│  🌐 Advanced Web Experiences                 │
+│  🧊 3D / Interactive Websites                │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🏆 Developer Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Don't+Just+Learn+Technology.;Build+With+It.;Don't+Just+Build+Projects.;Solve+Problems.;Don't+Just+Write+Code.;Create+Experiences." />
+
+</div>
+
+---
+
+# 📈 Growth Protocol
+
+```text
+       ┌──────────────┐
+       │    LEARN     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    BUILD     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    BREAK     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │     FIX      │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   IMPROVE    │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    REPEAT    │
+       └──────────────┘
+```
+
+> **Every bug is a lesson. Every project is experience. Every failure is feedback.**
+
+---
+
+# 🌌 Beyond Code
+
+<div align="center">
+
+`💡 Entrepreneurship`
+`🤖 Artificial Intelligence`
+`🎮 Gaming`
+`🎬 Video Editing`
+`🎨 UI/UX`
+`📈 Business & Technology`
+`🚀 Digital Products`
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+```yaml
+mission_2026:
+
+  career:
+    - Become job-ready
+    - Build a strong developer portfolio
+    - Gain real-world experience
+
+  development:
+    - Master modern frontend development
+    - Improve backend fundamentals
+    - Build full-stack applications
+
+  ai:
+    - Build practical AI applications
+    - Explore AI agents
+    - Automate workflows
+
+  business:
+    - Build digital products
+    - Work with real clients
+    - Eventually become a product / business builder
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -352,12 +428,16 @@ I'm also interested in:
 
 <div align="center">
 
-### 🚀 Keep Building. Keep Learning. Keep Growing.
+## `> SYSTEM MESSAGE`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Products;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=System+Online...;Learning+Mode%3A+ACTIVE;Building+Mode%3A+ACTIVE;Dream+Mode%3A+ACTIVE;Never+Stop+Building+%F0%9F%9A%80" />
 
-<br/><br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+### **CODE • CREATE • INNOVATE • REPEAT**
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=150&section=footer"/>
 
 </div>
