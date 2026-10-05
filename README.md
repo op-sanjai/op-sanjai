@@ -1,852 +1,363 @@
-<!-- ============================================================ -->
-
-<!--              SANJAI // ANIME DEVELOPER V4                   -->
-
-<!--          ANIME OPENING • SYSTEM AWAKENING • AI              -->
-
-<!-- ============================================================ -->
-
 <div align="center">
 
-<!-- ANIMATED OPENING -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SANJAI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20AI%20EXPLORER%20%7C%20BUILDER&descAlignY=58&descSize=18"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:09001A,50:24004A,75:5B21B6,100:000000&text=SANJAI&fontSize=78&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=%E3%80%8C%20THE%20DEVELOPER%20WHO%20BUILDS%20%E3%80%8D&descSize=21&descAlignY=58"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Real+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing SVG" />
 
-<!-- ANIMATED TYPING -->
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=900&lines=%5BSYSTEM%5D+INITIALIZING...;%5BSYSTEM%5D+IDENTITY+VERIFIED;%5BCLASS%5D+FRONTEND+%2B+AI+DEVELOPER;%5BSKILL%5D+WEB+DEVELOPMENT+%7C+AI+%7C+AUTOMATION;%5BSTATUS%5D+AWAKENED;%5BMISSION%5D+BUILD+SOMETHING+GREAT" />
+<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20Information%20Technology-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Web%20Development-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Tamil%20Nadu%2C%20India-4C1D95?style=for-the-badge"/>
 
-<br>
+<br/><br/>
 
-<!-- ANIMATED STATUS -->
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/●%20SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/⚡%20POWER-AWAKENED-7C3AED?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/🧠%20AI-EXPLORER-8B5CF6?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/⚔️%20CLASS-DEVELOPER-6D28D9?style=for-the-badge&labelColor=050505"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-# ⚡ `SYSTEM AWAKENING`
+```yaml
+name: Sanjai
+education: B.Tech Information Technology
+role: Frontend Developer & Aspiring Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1300&pause=300&color=22C55E&center=true&vCenter=true&width=800&lines=%3E+Loading+character+data...;%3E+Loading+skills...;%3E+Loading+projects...;%3E+Loading+AI+modules...;%3E+Loading+future...;%3E+ACCESS+GRANTED." />
+focus:
+  - Modern Web Development
+  - Interactive UI/UX
+  - AI-Powered Applications
+  - Creative Digital Experiences
 
-</div>
+skills:
+  - HTML5
+  - CSS3
+  - JavaScript ES6
+  - Bootstrap 5
+  - React.js
+  - GSAP
+  - Python
+  - MySQL
+  - REST APIs
+  - Git & GitHub
+  - n8n
+  - AI Development Tools
+
+currently_learning:
+  - Advanced JavaScript
+  - React.js
+  - Python Backend Development
+  - REST API Development
+  - AI Integration
+  - Automation with n8n
+
+mindset:
+  Learn → Build → Share → Improve
+```
+
+I'm a **B.Tech Information Technology student and aspiring Frontend / Full Stack Developer** who enjoys turning ideas into real-world digital products.
+
+I love building **modern websites, interactive interfaces, AI-powered applications and creative web experiences** with a strong focus on design and user experience.
+
+Currently, I'm focused on improving my development skills, building real projects and turning my technical knowledge into professional products.
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Programming & Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+</p>
+
+**Also working with:** GSAP • ScrollTrigger • Responsive Design • Interactive UI
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb"/>
+</p>
+
+**Currently exploring:** Python Backend • REST APIs • Authentication • Database Integration
+
+### 🛠️ Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+**Also using:** n8n • AI Coding Tools • GitHub • VS Code
+
+---
+
+## 🧠 My Learning Journey
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                 CHARACTER DATABASE                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  NAME       : SANJAI                                 ║
-║  ALIAS      : OP                                     ║
-║  CLASS      : DEVELOPER                              ║
-║  SUBCLASS   : AI EXPLORER                            ║
-║  RANK       : B.TECH IT                              ║
-║  STATUS     : ● ONLINE                               ║
-║                                                      ║
-║  SPECIALTY  : WEB + AI + AUTOMATION                  ║
-║                                                      ║
-║  CURRENT XP : ███████████████████░░  92%             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+Bootstrap & Responsive Design
+     ↓
+React.js
+     ↓
+GSAP & Interactive Experiences
+     ↓
+Python Backend
+     ↓
+REST APIs & Databases
+     ↓
+AI Integration & Automation
+     ↓
+Real-World Projects
+     ↓
+Professional Developer
 ```
 
 ---
 
-# 🌌 `CHARACTER INTRO`
+## 🔥 Featured Projects
 
-<div align="center">
+### 🌐 Project 01 — Event Scheduling Platform
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=27&duration=2500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&lines=I+don't+just+write+code.;I+build+experiences.;I+don't+just+learn+AI.;I+experiment+with+it.;I+don't+just+have+ideas.;I+turn+them+into+projects." />
+A web platform designed to help **event organizers create, manage and schedule events** while allowing attendees to discover and participate in events.
 
-</div>
+**Features:**
 
-I'm **Sanjai**, a B.Tech Information Technology student and aspiring **Frontend / Full Stack Developer**.
+* Event creation & management
+* Event scheduling
+* Organizer / attendee workflow
+* Responsive interface
+* Backend & database integration
 
-I enjoy building **modern websites, animated interfaces, AI-powered applications and digital products**.
-
-My current path combines:
-
-`WEB DEVELOPMENT` + `UI/UX` + `ANIMATION` + `AI` + `AUTOMATION`
-
-> **My objective isn't to know everything.
-> My objective is to keep evolving.**
-
----
-
-# ⚔️ `CHARACTER STATS`
-
-<div align="center">
-
-### 🎨 UI / Design
-
-<img src="https://progress-bar.dev/90/?title=POWER&width=500&color=7C3AED"/>
-
-### 💻 Web Development
-
-<img src="https://progress-bar.dev/82/?title=POWER&width=500&color=8B5CF6"/>
-
-### ⚡ JavaScript
-
-<img src="https://progress-bar.dev/78/?title=POWER&width=500&color=6D28D9"/>
-
-### 🤖 AI Exploration
-
-<img src="https://progress-bar.dev/75/?title=POWER&width=500&color=A855F7"/>
-
-### ✨ Animation / GSAP
-
-<img src="https://progress-bar.dev/80/?title=POWER&width=500&color=9333EA"/>
-
-### 🐍 Python
-
-<img src="https://progress-bar.dev/68/?title=POWER&width=500&color=7E22CE"/>
-
-</div>
-
----
-
-# 🧬 `SKILL AWAKENING`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,nodejs,mysql,mongodb,git,github,vscode&perline=6"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1500&pause=300&color=A78BFA&center=true&vCenter=true&width=850&lines=HTML5+%E2%9C%93;CSS3+%E2%9C%93;JavaScript+%E2%9C%93;React.js+%E2%9C%93;Python+%E2%9C%93;MySQL+%E2%9C%93;Node.js+%E2%9C%93;Git+%E2%9C%93;GSAP+%E2%9C%93;AI+TOOLS+%E2%9C%93;n8n+%E2%9C%93" />
-
-</div>
-
----
-
-# 🔥 `THE AWAKENING JOURNEY`
-
-<div align="center">
-
-```text
-          ✦
-          │
-          ▼
-    ┌───────────────┐
-    │   DISCOVERY   │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │     CODE      │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │     BUILD     │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │     BREAK     │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │      FIX      │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │    EVOLVE     │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │   ??? ??? ??? │
-    └───────────────┘
-            │
-            ▼
-       `FINAL FORM`
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Evolution+is+still+in+progress...;Next+level+is+locked.;Keep+building+to+unlock." />
-
-</div>
-
----
-
-# 🏯 `QUEST LOG`
-
-## ⚔️ QUEST 01 — EVENT SCHEDULING PLATFORM
-
-**Class:** Web Application
-**Status:** `⚡ BUILDING`
-
-A platform designed for **event organizers and attendees**.
-
-```text
-[ ORGANIZER ]
-      ↓
-Create Event
-      ↓
-Schedule
-      ↓
-Publish
-      ↓
-[ ATTENDEE ]
-      ↓
-Discover → Join
-```
-
+**Tech Stack:**
 `HTML` `CSS` `JavaScript` `Bootstrap` `Python` `MySQL`
 
 ---
 
-## 🩸 QUEST 02 — VIPER SENSI
+### 🛒 Project 02 — Viper Sensi Platform
 
-**Class:** Digital Product Platform
-**Status:** `✓ COMPLETED`
+A digital platform created for managing and selling **Free Fire sensitivity configurations and gaming-related digital products**.
 
-A gaming-focused digital product system.
+**Features:**
 
-**Abilities unlocked:**
+* Product listing
+* Digital product workflow
+* User authentication
+* Payment verification workflow
+* PDF generation
+* Token-based product delivery
 
-`Authentication` • `Payment Verification` • `PDF Generation` • `Token Delivery` • `API`
-
-`Node.js` `Express.js` `JWT` `SQLite` `Python`
-
----
-
-## 🏹 QUEST 03 — EXPLOREKEY HOLIDAYS
-
-**Class:** Premium Travel Experience
-**Status:** `⚡ DEVELOPING`
-
-Designed around immersive travel presentation.
-
-**Abilities:**
-
-`GSAP` • `ScrollTrigger` • `Parallax` • `Responsive UI` • `Premium UX`
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `JWT` `SQLite` `Python`
 
 ---
 
-## 👁️ QUEST 04 — IGRIS
+### ✈️ Project 03 — ExploreKey Holidays
 
-**Class:** Personal AI Assistant
-**Status:** `🧪 EXPERIMENTAL`
+A modern travel website concept designed for a travel business covering destinations across **Tamil Nadu, Kerala, Karnataka, Goa and South India**.
+
+**Focus:**
+
+* Premium travel UI
+* Interactive animations
+* Destination presentation
+* Responsive design
+* Conversion-focused layouts
+
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `Bootstrap` `GSAP` `ScrollTrigger`
+
+---
+
+### 🤖 Project 04 — IGRIS Personal AI Assistant
+
+An experimental personal AI assistant project inspired by futuristic AI assistants.
+
+**Features explored:**
+
+* Voice interaction
+* AI conversation
+* Memory system
+* PC automation
+* Reminders
+* Tool integration
+* n8n automation
+* Local AI experimentation
+
+**Tech Stack:**
+`Python` `AI APIs` `Ollama` `n8n` `Automation`
+
+---
+
+## 🎨 What I Love Building
 
 ```text
-          ┌─────────────┐
-          │     VOICE   │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │     AI      │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │   MEMORY    │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │    TOOLS    │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │ AUTOMATION  │
-          └─────────────┘
+✨ Premium Websites
+🎨 Creative UI/UX
+⚡ Interactive Web Experiences
+🤖 AI-Powered Applications
+🔗 Automation Systems
+🛒 E-Commerce Platforms
+📱 Responsive Web Apps
+🚀 Digital Products
 ```
 
-`Python` `AI` `Ollama` `n8n` `Automation`
+---
+
+## 🔭 Currently Exploring
+
+* Advanced React.js
+* Python Backend Development
+* REST API Architecture
+* AI Integration
+* AI Agents
+* n8n Automation
+* GSAP & Advanced Animations
+* 3D / Interactive Web Experiences
+* Full Stack Development
 
 ---
 
-# 💀 `BOSS BATTLE`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1700&pause=500&color=EF4444&center=true&vCenter=true&width=700&lines=%5BBOSS+ENCOUNTER%5D;%3E+INCONSISTENCY;%3E+OVERTHINKING;%3E+COMPLEX+BACKEND;%3E+TIME+MANAGEMENT;%5BSTATUS%5D+FIGHTING..." />
-
-</div>
-
-```text
-INCONSISTENCY
-██████████████░░░░░░  70%
-
-OVERTHINKING
-████████████░░░░░░░░  60%
-
-BACKEND
-██████████░░░░░░░░░░  50%
-
-AI ARCHITECTURE
-█████████░░░░░░░░░░░  45%
-
-DISCIPLINE
-███████████████░░░░░  75%
-```
-
-> **Every weakness is another quest.**
-
----
-
-# 🔮 `CURRENT QUEST`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1700&pause=500&color=A78BFA&center=true&vCenter=true&width=850&lines=%E2%9A%94+Master+Modern+Frontend;%F0%9F%90%8D+Strengthen+Python+Backend;%F0%9F%A4%96+Build+AI+Applications;%F0%9F%A7%A0+Explore+AI+Agents;%F0%9F%94%97+Automate+With+n8n;%E2%9C%A8+Create+Immersive+Websites;%F0%9F%9A%80+Build+Real+Products" />
-
-</div>
-
----
-
-# 🌠 `EXPERIMENT LAB`
+## 🎯 Current Focus
 
 ```yaml
-AI:
-  status: ACTIVE
-  experiments:
-    - Personal AI Assistants
-    - Local LLMs
-    - AI APIs
-    - AI Agents
+learning:
+  - React.js
+  - Python Backend
+  - REST APIs
+  - AI Integration
+  - Advanced JavaScript
 
-WEB:
-  status: ACTIVE
-  experiments:
-    - Interactive Websites
-    - GSAP
-    - ScrollTrigger
-    - 3D Web Concepts
+building:
+  - Event Scheduling Platform
+  - AI Assistant Projects
+  - Premium Web Experiences
+  - Client Websites
 
-AUTOMATION:
-  status: ACTIVE
-  experiments:
-    - n8n
-    - API Workflows
-    - Productivity Automation
+exploring:
+  - AI Agents
+  - Automation
+  - 3D Web Experiences
+  - AI-Powered Web Apps
+
+goal:
+  - Become a strong Full Stack Developer
+  - Build products instead of only projects
+  - Create technology that solves real problems
 ```
 
 ---
 
-# 📊 `POWER LEVEL`
+## 💡 My Development Philosophy
 
-<div align="center">
+> **Learn → Build → Break → Fix → Improve**
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"/>
+I believe the best way to learn development is not just by watching tutorials, but by **building real things, solving real problems and continuously improving them.**
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A78BFA&text_color=FFFFFF"/>
-
-</div>
+Every project is an opportunity to learn something new.
 
 ---
 
-# 🔥 `STREAK MODE`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050505&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=94A3B8"/>
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION EVOLUTION`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Animation"/>
-
-</div>
-
----
-
-# 🎬 `SYSTEM LOG`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1400&pause=400&color=22C55E&center=true&vCenter=true&width=850&lines=%5B09%3A00%5D+System+Online;%5B09%3A01%5D+Developer+Mode+Enabled;%5B09%3A02%5D+Coffee+Detected;%5B09%3A03%5D+Code+Editor+Opened;%5B09%3A04%5D+Ideas+Loading...;%5B09%3A05%5D+Build+Started;%5B09%3A06%5D+Never+Stop." />
-
-</div>
-
----
-
-# 👑 `FINAL FORM`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=29&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=One+Project+At+A+Time.;One+Skill+At+A+Time.;One+Level+At+A+Time.;EVOLUTION+NEVER+STOPS." />
-
-<br><br>
+## 📈 My Growth Path
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║             SANJAI // AWAKENED                  ║
-║                                                  ║
-║       ⚔️ BUILD     🧠 LEARN                    ║
-║                                                  ║
-║       🔥 EVOLVE    🚀 CREATE                   ║
-║                                                  ║
-║              NEXT LEVEL: LOCKED                 ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+Student
+   ↓
+Developer
+   ↓
+Project Builder
+   ↓
+Full Stack Developer
+   ↓
+AI Developer
+   ↓
+Product Builder
+   ↓
+Job Creator 🚀
 ```
 
-<br>
+---
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/⚡%20ENTER%20THE%20WORLD-7C3AED?style=for-the-badge"/>
-</a>
+## 🧩 Beyond Coding
+
+I'm also interested in:
+
+* 💡 Entrepreneurship
+* 🤖 Artificial Intelligence
+* 🎮 Gaming
+* 🎬 Video & Reel Editing
+* 🎨 Website Design
+* 📈 Business & Technology
+* 🚀 Building Digital Products
+
+---
+
+## 🐙 GitHub
+
+<div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/⚔️%20VIEW%20QUESTS-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Improving-6D28D9?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/📜%20SEND%20MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=94A3B8&center=true&vCenter=true&width=700&lines=%3E+Thanks+for+visiting+my+profile.;%3E+The+story+is+still+being+written...;%3E+See+you+in+the+next+arc." />
-
-</div>
-
-<!-- ========================= -->
-
-<!--         FOOTER            -->
-
-<!-- ========================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,30:5B21B6,60:24004A,100:000000&section=footer&animation=twinkling"/>
-<!-- ============================================================ -->
-
-<!--              SANJAI // ANIME DEVELOPER V4                   -->
-
-<!--          ANIME OPENING • SYSTEM AWAKENING • AI              -->
-
-<!-- ============================================================ -->
-
-<div align="center">
-
-<!-- ANIMATED OPENING -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:09001A,50:24004A,75:5B21B6,100:000000&text=SANJAI&fontSize=78&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=%E3%80%8C%20THE%20DEVELOPER%20WHO%20BUILDS%20%E3%80%8D&descSize=21&descAlignY=58"/>
-
-<!-- ANIMATED TYPING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=900&lines=%5BSYSTEM%5D+INITIALIZING...;%5BSYSTEM%5D+IDENTITY+VERIFIED;%5BCLASS%5D+FRONTEND+%2B+AI+DEVELOPER;%5BSKILL%5D+WEB+DEVELOPMENT+%7C+AI+%7C+AUTOMATION;%5BSTATUS%5D+AWAKENED;%5BMISSION%5D+BUILD+SOMETHING+GREAT" />
-
-<br>
-
-<!-- ANIMATED STATUS -->
-
-<img src="https://img.shields.io/badge/●%20SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/⚡%20POWER-AWAKENED-7C3AED?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/🧠%20AI-EXPLORER-8B5CF6?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/⚔️%20CLASS-DEVELOPER-6D28D9?style=for-the-badge&labelColor=050505"/>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ `SYSTEM AWAKENING`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1300&pause=300&color=22C55E&center=true&vCenter=true&width=800&lines=%3E+Loading+character+data...;%3E+Loading+skills...;%3E+Loading+projects...;%3E+Loading+AI+modules...;%3E+Loading+future...;%3E+ACCESS+GRANTED." />
-
-</div>
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                 CHARACTER DATABASE                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  NAME       : SANJAI                                 ║
-║  ALIAS      : OP                                     ║
-║  CLASS      : DEVELOPER                              ║
-║  SUBCLASS   : AI EXPLORER                            ║
-║  RANK       : B.TECH IT                              ║
-║  STATUS     : ● ONLINE                               ║
-║                                                      ║
-║  SPECIALTY  : WEB + AI + AUTOMATION                  ║
-║                                                      ║
-║  CURRENT XP : ███████████████████░░  92%             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-# 🌌 `CHARACTER INTRO`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=27&duration=2500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&lines=I+don't+just+write+code.;I+build+experiences.;I+don't+just+learn+AI.;I+experiment+with+it.;I+don't+just+have+ideas.;I+turn+them+into+projects." />
-
-</div>
-
-I'm **Sanjai**, a B.Tech Information Technology student and aspiring **Frontend / Full Stack Developer**.
-
-I enjoy building **modern websites, animated interfaces, AI-powered applications and digital products**.
-
-My current path combines:
-
-`WEB DEVELOPMENT` + `UI/UX` + `ANIMATION` + `AI` + `AUTOMATION`
-
-> **My objective isn't to know everything.
-> My objective is to keep evolving.**
-
----
-
-# ⚔️ `CHARACTER STATS`
-
-<div align="center">
-
-### 🎨 UI / Design
-
-<img src="https://progress-bar.dev/90/?title=POWER&width=500&color=7C3AED"/>
-
-### 💻 Web Development
-
-<img src="https://progress-bar.dev/82/?title=POWER&width=500&color=8B5CF6"/>
-
-### ⚡ JavaScript
-
-<img src="https://progress-bar.dev/78/?title=POWER&width=500&color=6D28D9"/>
-
-### 🤖 AI Exploration
-
-<img src="https://progress-bar.dev/75/?title=POWER&width=500&color=A855F7"/>
-
-### ✨ Animation / GSAP
-
-<img src="https://progress-bar.dev/80/?title=POWER&width=500&color=9333EA"/>
-
-### 🐍 Python
-
-<img src="https://progress-bar.dev/68/?title=POWER&width=500&color=7E22CE"/>
-
-</div>
-
----
-
-# 🧬 `SKILL AWAKENING`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,nodejs,mysql,mongodb,git,github,vscode&perline=6"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1500&pause=300&color=A78BFA&center=true&vCenter=true&width=850&lines=HTML5+%E2%9C%93;CSS3+%E2%9C%93;JavaScript+%E2%9C%93;React.js+%E2%9C%93;Python+%E2%9C%93;MySQL+%E2%9C%93;Node.js+%E2%9C%93;Git+%E2%9C%93;GSAP+%E2%9C%93;AI+TOOLS+%E2%9C%93;n8n+%E2%9C%93" />
-
-</div>
-
----
-
-# 🔥 `THE AWAKENING JOURNEY`
-
-<div align="center">
-
-```text
-          ✦
-          │
-          ▼
-    ┌───────────────┐
-    │   DISCOVERY   │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │     CODE      │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │     BUILD     │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │     BREAK     │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │      FIX      │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │    EVOLVE     │
-    └───────┬───────┘
-            │
-            ▼
-    ┌───────────────┐
-    │   ??? ??? ??? │
-    └───────────────┘
-            │
-            ▼
-       `FINAL FORM`
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Evolution+is+still+in+progress...;Next+level+is+locked.;Keep+building+to+unlock." />
-
-</div>
-
----
-
-# 🏯 `QUEST LOG`
-
-## ⚔️ QUEST 01 — EVENT SCHEDULING PLATFORM
-
-**Class:** Web Application
-**Status:** `⚡ BUILDING`
-
-A platform designed for **event organizers and attendees**.
-
-```text
-[ ORGANIZER ]
-      ↓
-Create Event
-      ↓
-Schedule
-      ↓
-Publish
-      ↓
-[ ATTENDEE ]
-      ↓
-Discover → Join
-```
-
-`HTML` `CSS` `JavaScript` `Bootstrap` `Python` `MySQL`
-
----
-
-## 🩸 QUEST 02 — VIPER SENSI
-
-**Class:** Digital Product Platform
-**Status:** `✓ COMPLETED`
-
-A gaming-focused digital product system.
-
-**Abilities unlocked:**
-
-`Authentication` • `Payment Verification` • `PDF Generation` • `Token Delivery` • `API`
-
-`Node.js` `Express.js` `JWT` `SQLite` `Python`
-
----
-
-## 🏹 QUEST 03 — EXPLOREKEY HOLIDAYS
-
-**Class:** Premium Travel Experience
-**Status:** `⚡ DEVELOPING`
-
-Designed around immersive travel presentation.
-
-**Abilities:**
-
-`GSAP` • `ScrollTrigger` • `Parallax` • `Responsive UI` • `Premium UX`
-
----
-
-## 👁️ QUEST 04 — IGRIS
-
-**Class:** Personal AI Assistant
-**Status:** `🧪 EXPERIMENTAL`
-
-```text
-          ┌─────────────┐
-          │     VOICE   │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │     AI      │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │   MEMORY    │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │    TOOLS    │
-          └──────┬──────┘
-                 ↓
-          ┌─────────────┐
-          │ AUTOMATION  │
-          └─────────────┘
-```
-
-`Python` `AI` `Ollama` `n8n` `Automation`
-
----
-
-# 💀 `BOSS BATTLE`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1700&pause=500&color=EF4444&center=true&vCenter=true&width=700&lines=%5BBOSS+ENCOUNTER%5D;%3E+INCONSISTENCY;%3E+OVERTHINKING;%3E+COMPLEX+BACKEND;%3E+TIME+MANAGEMENT;%5BSTATUS%5D+FIGHTING..." />
-
-</div>
-
-```text
-INCONSISTENCY
-██████████████░░░░░░  70%
-
-OVERTHINKING
-████████████░░░░░░░░  60%
-
-BACKEND
-██████████░░░░░░░░░░  50%
-
-AI ARCHITECTURE
-█████████░░░░░░░░░░░  45%
-
-DISCIPLINE
-███████████████░░░░░  75%
-```
-
-> **Every weakness is another quest.**
-
----
-
-# 🔮 `CURRENT QUEST`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1700&pause=500&color=A78BFA&center=true&vCenter=true&width=850&lines=%E2%9A%94+Master+Modern+Frontend;%F0%9F%90%8D+Strengthen+Python+Backend;%F0%9F%A4%96+Build+AI+Applications;%F0%9F%A7%A0+Explore+AI+Agents;%F0%9F%94%97+Automate+With+n8n;%E2%9C%A8+Create+Immersive+Websites;%F0%9F%9A%80+Build+Real+Products" />
-
-</div>
-
----
-
-# 🌠 `EXPERIMENT LAB`
-
-```yaml
-AI:
-  status: ACTIVE
-  experiments:
-    - Personal AI Assistants
-    - Local LLMs
-    - AI APIs
-    - AI Agents
-
-WEB:
-  status: ACTIVE
-  experiments:
-    - Interactive Websites
-    - GSAP
-    - ScrollTrigger
-    - 3D Web Concepts
-
-AUTOMATION:
-  status: ACTIVE
-  experiments:
-    - n8n
-    - API Workflows
-    - Productivity Automation
-```
-
----
-
-# 📊 `POWER LEVEL`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A78BFA&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 `STREAK MODE`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050505&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=94A3B8"/>
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION EVOLUTION`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Animation"/>
-
-</div>
-
----
-
-# 🎬 `SYSTEM LOG`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1400&pause=400&color=22C55E&center=true&vCenter=true&width=850&lines=%5B09%3A00%5D+System+Online;%5B09%3A01%5D+Developer+Mode+Enabled;%5B09%3A02%5D+Coffee+Detected;%5B09%3A03%5D+Code+Editor+Opened;%5B09%3A04%5D+Ideas+Loading...;%5B09%3A05%5D+Build+Started;%5B09%3A06%5D+Never+Stop." />
-
-</div>
-
----
-
-# 👑 `FINAL FORM`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=29&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=One+Project+At+A+Time.;One+Skill+At+A+Time.;One+Level+At+A+Time.;EVOLUTION+NEVER+STOPS." />
-
-<br><br>
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║             SANJAI // AWAKENED                  ║
-║                                                  ║
-║       ⚔️ BUILD     🧠 LEARN                    ║
-║                                                  ║
-║       🔥 EVOLVE    🚀 CREATE                   ║
-║                                                  ║
-║              NEXT LEVEL: LOCKED                 ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-<br>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/⚡%20ENTER%20THE%20WORLD-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/⚔️%20VIEW%20QUESTS-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/📜%20SEND%20MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=94A3B8&center=true&vCenter=true&width=700&lines=%3E+Thanks+for+visiting+my+profile.;%3E+The+story+is+still+being+written...;%3E+See+you+in+the+next+arc." />
 
 </div>
 
-<!-- ========================= -->
+---
 
-<!--         FOOTER            -->
+<div align="center">
 
-<!-- ========================= -->
+### 🚀 Keep Building. Keep Learning. Keep Growing.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,30:5B21B6,60:24004A,100:000000&section=footer&animation=twinkling"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Products;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
