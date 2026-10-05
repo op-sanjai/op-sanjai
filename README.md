@@ -1,117 +1,128 @@
-<!-- ========================= -->
+<!-- ========================================================= -->
 
-<!--        HERO SECTION       -->
+<!--                  SANJAI — ANIME DEV V3                    -->
 
-<!-- ========================= -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:312E81,100:7C3AED&text=SANJAI&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20AI%20EXPLORER%20%E2%80%A2%20BUILDER&descSize=20&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,45:12002B,75:4C1D95,100:7C3AED&text=SANJAI&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=THE%20DIGITAL%20BUILDER&descSize=22&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=850&lines=%5BSYSTEM%5D+Developer+Awakened...;%5BCLASS%5D+Frontend+%2B+AI+Explorer;%5BSTATUS%5D+Always+Learning...;%5BMISSION%5D+Turn+Ideas+Into+Reality;%5BPATH%5D+Learn+%E2%86%92+Build+%E2%86%92+Evolve" alt="Anime System Animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=850&lines=Initializing+Sanjai.exe...;Frontend+Developer+%7C+AI+Explorer;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Products;Code+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve;Welcome+to+my+digital+world+%F0%9F%9A%80" alt="Typing Animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROLE-FRONTEND%20DEVELOPER-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-TAMIL%20NADU-312E81?style=for-the-badge"/>
-
-<br><br>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/⚔️%20CLASS-FRONTEND%20DEVELOPER-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20POWER-AI%20EXPLORER-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥%20STATUS-AWAKENED-22C55E?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-
-<!--       SYSTEM PROFILE      -->
-
-<!-- ========================= -->
-
 <div align="center">
 
-## `> SYSTEM PROFILE`
+# ⚔️ `CHARACTER PROFILE`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Developer+Mode%3A+ACTIVE;Creative+Mode%3A+ACTIVE;Learning+Mode%3A+ALWAYS+ON;Building+Mode%3A+24%2F7" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Loading+Character+Data...;Identity+Verified.;Developer+Profile+Unlocked.;Welcome%2C+Hunter." />
 
 </div>
 
 ```yaml
-name: Sanjai
-alias: Op
-education: B.Tech Information Technology
-role: Frontend Developer / Aspiring Full Stack Developer
+character:
+  name: Sanjai
+  alias: Op
+  class: Frontend Developer
+  secondary_class: AI Explorer
+  rank: B.Tech IT Student
+  location: Tamil Nadu, India
 
-mission:
-  - Build modern web experiences
-  - Explore Artificial Intelligence
-  - Solve real-world problems
-  - Turn ideas into products
+alignment:
+  creativity: HIGH
+  curiosity: HIGH
+  consistency: DEVELOPING
+  ambition: EXTREME
 
-mindset:
-  Learn → Build → Break → Fix → Improve
+specialization:
+  - Web Development
+  - Interactive UI
+  - AI Applications
+  - Automation
+  - Digital Products
 
-current_status:
-  learning: true
-  building: true
-  experimenting: true
-  giving_up: false
+current_quest:
+  - Become a strong Full Stack Developer
+  - Build real-world products
+  - Explore AI & automation
 ```
 
 ---
 
-# ⚡ About Me
-
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-I'm **Sanjai**, a B.Tech Information Technology student and aspiring **Frontend / Full Stack Developer**.
-
-I enjoy creating **modern websites, interactive interfaces, AI-powered applications and digital products**.
-
-My main interest is combining **clean UI + animations + technology + AI** to create experiences that feel different from ordinary websites.
-
-Currently I'm focused on becoming a stronger developer by building real projects instead of only learning theory.
-
-<br clear="right"/>
-
----
-
-# 🧠 Developer DNA
+# 🌑 `ABOUT THE CHARACTER`
 
 <div align="center">
 
-| 🧩 Area       | ⚡ Current Focus                       |
-| ------------- | ------------------------------------- |
-| 🎨 Frontend   | HTML • CSS • JavaScript • React       |
-| ✨ Animation   | GSAP • ScrollTrigger • Interactive UI |
-| 🐍 Backend    | Python • Node.js • REST APIs          |
-| 🗄️ Database  | MySQL • MongoDB • SQLite              |
-| 🤖 AI         | AI APIs • AI Assistants • AI Tools    |
-| 🔗 Automation | n8n • Workflow Automation             |
-| 🛠️ Tools     | Git • GitHub • VS Code                |
+<img width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+</div>
+
+> **"I don't want to just use technology. I want to build with it."**
+
+I'm **Sanjai**, a B.Tech Information Technology student and aspiring **Frontend / Full Stack Developer**.
+
+I enjoy creating **modern websites, interactive interfaces, animated experiences and AI-powered applications**.
+
+My journey started with web development and gradually evolved toward **AI, automation and product building**.
+
+Currently, my objective is simple:
+
+### **Learn skills → Build projects → Solve problems → Create products.**
+
+---
+
+# ⚡ `PLAYER STATS`
+
+<div align="center">
+
+|      Attribute     | Level |
+| :----------------: | :---: |
+|   🎨 UI / Design   | ⭐⭐⭐⭐⭐ |
+| 💻 Web Development | ⭐⭐⭐⭐☆ |
+|    ⚡ JavaScript    | ⭐⭐⭐⭐☆ |
+|      ⚛️ React      | ⭐⭐⭐☆☆ |
+|      🐍 Python     | ⭐⭐⭐☆☆ |
+|  🤖 AI Exploration | ⭐⭐⭐⭐☆ |
+| ✨ Animation / GSAP | ⭐⭐⭐⭐☆ |
+|    🔗 Automation   | ⭐⭐⭐☆☆ |
+| 🧠 Problem Solving | ⭐⭐⭐⭐☆ |
+|    🚀 Creativity   | ⭐⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🗡️ `SKILL TREE`
 
-### `Frontend`
+```text
+                         👑 SANJAI
+                            │
+             ┌──────────────┼──────────────┐
+             ↓              ↓              ↓
+         🎨 FRONTEND     🤖 AI LAB      ⚙️ BACKEND
+             │              │              │
+       ┌─────┼─────┐    ┌───┼───┐      ┌───┼───┐
+       ↓     ↓     ↓    ↓   ↓   ↓      ↓   ↓   ↓
+      HTML   CSS   JS   AI  n8n  LLM   Python Node MySQL
+       │     │     │
+       ↓     ↓     ↓
+    Bootstrap React GSAP
+```
+
+---
+
+# 🧬 `TECHNOLOGY ARSENAL`
+
+### ⚔️ Frontend
 
 <p align="center">
 
@@ -119,7 +130,7 @@ Currently I'm focused on becoming a stronger developer by building real projects
 
 </p>
 
-### `Backend & Database`
+### 🐉 Backend & Database
 
 <p align="center">
 
@@ -127,7 +138,7 @@ Currently I'm focused on becoming a stronger developer by building real projects
 
 </p>
 
-### `Tools`
+### 🛠️ Developer Equipment
 
 <p align="center">
 
@@ -135,291 +146,268 @@ Currently I'm focused on becoming a stronger developer by building real projects
 
 </p>
 
-### `Creative Technologies`
-
 <div align="center">
 
-`GSAP` `ScrollTrigger` `REST APIs` `n8n` `AI Tools` `Automation`
+`GSAP` `ScrollTrigger` `REST API` `n8n` `AI Tools` `Automation`
 
 </div>
 
 ---
 
-# 🚀 My Developer Evolution
-
-<div align="center">
+# 🌌 `AWAKENING JOURNEY`
 
 ```text
-             ┌─────────────────────┐
-             │      CURIOUS        │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │      LEARNER        │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │       CODER         │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │   PROJECT BUILDER   │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │   FULL STACK DEV    │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │    AI DEVELOPER     │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │   PRODUCT BUILDER   │
-             └─────────────────────┘
-```
+                     ┌──────────────┐
+                     │   BEGINNER   │
+                     └──────┬───────┘
+                            ↓
+                     ┌──────────────┐
+                     │  WEB LEARNER │
+                     └──────┬───────┘
+                            ↓
+                     ┌──────────────┐
+                     │    CODER     │
+                     └──────┬───────┘
+                            ↓
+                     ┌──────────────┐
+                     │   BUILDER    │
+                     └──────┬───────┘
+                            ↓
+                     ┌──────────────┐
+                     │ FULL STACK   │
+                     │   DEVELOPER  │
+                     └──────┬───────┘
+                            ↓
+                     ┌──────────────┐
+                     │ AI EXPLORER  │
+                     └──────┬───────┘
+                            ↓
+                     ┌──────────────┐
+                     │    ???       │
+                     └──────────────┘
 
-</div>
+                 NEXT EVOLUTION: LOCKED 🔒
+```
 
 ---
 
-# 💎 Featured Projects
+# 🏯 `QUEST LOG — PROJECTS`
 
-## 🌐 Event Scheduling Platform
+## ⚔️ Quest 01 — Event Scheduling Platform
 
-> A platform designed to connect **event organizers and attendees** through a modern event management experience.
+**Type:** Web Application
+**Status:** `IN DEVELOPMENT`
 
-**Highlights**
+A platform designed to connect **event organizers and attendees**.
+
+### Abilities
 
 * 📅 Event scheduling
 * 👥 Organizer / attendee workflow
 * 🎨 Responsive UI
-* 🔐 Backend integration
-* 🗄️ Database management
+* 🗄️ Database integration
+* 🔐 Backend functionality
+
+**Weapons Used**
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `Python` `MySQL`
 
 ---
 
-## 🎮 Viper Sensi Platform
+## 🩸 Quest 02 — Viper Sensi Platform
 
-> A digital product platform created around **gaming sensitivity configurations and digital products**.
+**Type:** Digital Product Platform
+**Status:** `BUILT`
 
-**Highlights**
+A gaming-focused digital product system for managing and delivering sensitivity configurations.
+
+### Abilities
 
 * 🛒 Product management
 * 🔐 Authentication
-* 💳 Payment verification workflow
-* 📄 Automated PDF generation
+* 💳 Payment verification
+* 📄 PDF generation
 * 🎟️ Token-based delivery
 * ⚙️ Backend API
 
-`Node.js` `Express.js` `JWT` `SQLite` `Python` `ReportLab`
+**Weapons Used**
+
+`Node.js` `Express.js` `JWT` `SQLite` `Python`
 
 ---
 
-## ✈️ ExploreKey Holidays
+## 🏹 Quest 03 — ExploreKey Holidays
 
-> A premium travel website concept focused on creating an **immersive travel experience**.
+**Type:** Premium Travel Experience
+**Status:** `BUILDING`
 
-**Highlights**
+A modern travel website concept focused on immersive presentation and interactive UI.
+
+### Abilities
 
 * 🌍 Destination showcase
-* ✨ GSAP animations
+* ✨ Premium animations
 * 🌀 Scroll interactions
-* 📱 Responsive design
-* 🎯 Conversion-focused UI
+* 📱 Responsive layouts
+* 🎯 Conversion-focused design
+
+**Weapons Used**
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `GSAP`
 
 ---
 
-## 🤖 IGRIS — Personal AI Assistant
+## 👁️ Quest 04 — IGRIS
 
-> An experimental AI assistant project inspired by futuristic personal assistants.
+**Type:** Personal AI Assistant
+**Status:** `EXPERIMENTAL`
 
-**Exploring**
+An experimental AI assistant inspired by futuristic personal assistants.
 
-* 🎙️ Voice interaction
-* 🧠 AI conversation
-* 💾 Memory systems
-* 🖥️ PC automation
-* 🔗 n8n workflows
-* 🤖 Local AI models
-* 🛠️ Tool integrations
+### Abilities
+
+```text
+🎙️ Voice Interaction
+        ↓
+🧠 AI Conversation
+        ↓
+💾 Memory
+        ↓
+🖥️ PC Automation
+        ↓
+🔗 n8n Workflows
+        ↓
+🤖 Local AI
+```
+
+**Weapons Used**
 
 `Python` `AI` `Ollama` `n8n` `Automation`
 
 ---
 
-# 🔥 Currently Building
+# 🔮 `CURRENTLY LEARNING`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&width=750&lines=⚡+Premium+Web+Experiences;🤖+AI-Powered+Applications;🔗+Automation+Workflows;🎨+Interactive+UI%2FUX;🚀+Real-World+Digital+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=800&lines=%5B+%E2%9A%94%5D+React.js;%5B+%F0%9F%90%8D%5D+Python+Backend;%5B+%F0%9F%94%8C%5D+REST+APIs;%5B+%F0%9F%A4%96%5D+AI+Integration;%5B+%F0%9F%A7%A0%5D+AI+Agents;%5B+%F0%9F%94%97%5D+n8n+Automation;%5B+%E2%9C%A8%5D+Advanced+GSAP;%5B+%F0%9F%8C%90%5D+Interactive+Web" />
 
 </div>
 
 ---
 
-# 🧪 Currently Exploring
+# 💀 `BOSS BATTLES`
 
 ```text
-┌──────────────────────────────────────────────┐
-│              EXPERIMENT LAB                  │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ⚛ React.js                                 │
-│  🐍 Python Backend                           │
-│  🔌 REST APIs                                │
-│  🤖 AI Integration                           │
-│  🧠 AI Agents                                │
-│  🔗 n8n Automation                           │
-│  ✨ GSAP / ScrollTrigger                     │
-│  🌐 Advanced Web Experiences                 │
-│  🧊 3D / Interactive Websites                │
-│                                              │
-└──────────────────────────────────────────────┘
+┌─────────────────────────────────────────────┐
+│              CURRENT BOSS LIST              │
+├─────────────────────────────────────────────┤
+│                                             │
+│  ⚔️ Inconsistency             [██████░░░░] │
+│  🧠 Overthinking              [█████░░░░░] │
+│  ⏳ Time Management            [██████░░░░] │
+│  💻 Advanced Backend           [████░░░░░░] │
+│  🤖 AI Architecture            [████░░░░░░] │
+│                                             │
+│       STATUS: DEFEAT THEM ALL              │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🏆 Developer Mindset
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Don't+Just+Learn+Technology.;Build+With+It.;Don't+Just+Build+Projects.;Solve+Problems.;Don't+Just+Write+Code.;Create+Experiences." />
-
-</div>
-
----
-
-# 📈 Growth Protocol
-
-```text
-       ┌──────────────┐
-       │    LEARN     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    BUILD     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    BREAK     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │     FIX      │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   IMPROVE    │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    REPEAT    │
-       └──────────────┘
-```
-
-> **Every bug is a lesson. Every project is experience. Every failure is feedback.**
-
----
-
-# 🌌 Beyond Code
-
-<div align="center">
-
-`💡 Entrepreneurship`
-`🤖 Artificial Intelligence`
-`🎮 Gaming`
-`🎬 Video Editing`
-`🎨 UI/UX`
-`📈 Business & Technology`
-`🚀 Digital Products`
-
-</div>
-
----
-
-# 🎯 2026 Mission
+# 🧪 `EXPERIMENT LAB`
 
 ```yaml
-mission_2026:
+experiments:
 
-  career:
-    - Become job-ready
-    - Build a strong developer portfolio
-    - Gain real-world experience
+  AI:
+    - Personal AI Assistants
+    - AI APIs
+    - Local LLMs
+    - AI Agents
 
-  development:
-    - Master modern frontend development
-    - Improve backend fundamentals
-    - Build full-stack applications
+  Web:
+    - Interactive Websites
+    - GSAP Experiences
+    - 3D Web Concepts
+    - Premium UI
 
-  ai:
-    - Build practical AI applications
-    - Explore AI agents
-    - Automate workflows
-
-  business:
-    - Build digital products
-    - Work with real clients
-    - Eventually become a product / business builder
+  Automation:
+    - n8n Workflows
+    - API Automation
+    - Productivity Systems
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 📊 `BATTLE RECORD`
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🔥 `STREAK POWER`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=09090B&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION DRAGON`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 👑 `FINAL FORM`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=The+goal+isn't+to+be+the+best.;The+goal+is+to+be+better+than+yesterday.;One+skill.+One+project.+One+level+at+a+time.;Evolution+never+stops." />
+
+<br><br>
+
+```text
+                    ╔══════════════════════╗
+                    ║   SANJAI // ONLINE   ║
+                    ╠══════════════════════╣
+                    ║                      ║
+                    ║  ⚔️ BUILD            ║
+                    ║  🧠 LEARN            ║
+                    ║  🔥 EVOLVE           ║
+                    ║  🚀 CREATE           ║
+                    ║                      ║
+                    ╚══════════════════════╝
+```
+
+### ⚡ `LEARN • BUILD • EVOLVE`
+
+<br>
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20ENTER%20MY%20WORLD-7C3AED?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚔️%20VIEW%20MY%20QUESTS-18181B?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/📜%20SEND%20A%20MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -428,17 +416,6 @@ mission_2026:
 
 <div align="center">
 
-## `> SYSTEM MESSAGE`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=System+Online...;Learning+Mode%3A+ACTIVE;Building+Mode%3A+ACTIVE;Dream+Mode%3A+ACTIVE;Never+Stop+Building+%F0%9F%9A%80" />
-
-<br>
-
-### **CODE • CREATE • INNOVATE • REPEAT**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,45:4C1D95,75:12002B,100:050505&section=footer"/>
 
 </div>
-
